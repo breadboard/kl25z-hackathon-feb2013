@@ -1,0 +1,13 @@
+pwm.o: pwm.c
+pwm.o: types.h
+pwm.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+pwm.o: config.h
+pwm.o: derivative.h
+pwm.o: local_MKL25Z4.h
+pwm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+pwm.o: C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h
+pwm.o: C:\Keil\ARM\CMSIS\Include\core_cm0plus.h
+pwm.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+pwm.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+pwm.o: C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h
+pwm.o: pwm.h

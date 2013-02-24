@@ -1,0 +1,14 @@
+uart.o: uart.c
+uart.o: types.h
+uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+uart.o: config.h
+uart.o: derivative.h
+uart.o: local_MKL25Z4.h
+uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+uart.o: C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h
+uart.o: C:\Keil\ARM\CMSIS\Include\core_cm0plus.h
+uart.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+uart.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+uart.o: C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h
+uart.o: uart.h
+uart.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h

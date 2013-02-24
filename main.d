@@ -1,0 +1,17 @@
+main.o: main.c
+main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+main.o: types.h
+main.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+main.o: config.h
+main.o: derivative.h
+main.o: local_MKL25Z4.h
+main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+main.o: C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cm0plus.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+main.o: C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h
+main.o: adc.h
+main.o: uart.h
+main.o: pwm.h

@@ -1,0 +1,13 @@
+adc.o: adc.c
+adc.o: types.h
+adc.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+adc.o: config.h
+adc.o: derivative.h
+adc.o: local_MKL25Z4.h
+adc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+adc.o: C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h
+adc.o: C:\Keil\ARM\CMSIS\Include\core_cm0plus.h
+adc.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+adc.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+adc.o: C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h
+adc.o: adc.h

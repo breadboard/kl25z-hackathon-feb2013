@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\vm\Documents\code\ARM-misc\kl25z-hackathon-feb2013\hackathon.uvproj
+Project File Date:  02/23/2013
+
+<h2>Output:</h2>
+Build target 'MKL25Z'
+assembling startup_MKL25Z4.s...
+compiling system_MKL25Z4.c...
+compiling main.c...
+main.c(38): warning:  #111-D: statement is unreachable
+compiling uart.c...
+uart.c(6): warning:  #550-D: variable "uart0_rx" was set but never used
+compiling adc.c...
+compiling pwm.c...
+pwm.c(111): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=3408 RO-data=224 RW-data=32 ZI-data=1312  
+"hackathon.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\Users\\vm\\Documents\\code\\ARM-misc\\kl25z-hackathon-feb2013\\hackathon.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'MKL25Z'
+compiling main.c...
+main.c(38): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=3408 RO-data=224 RW-data=32 ZI-data=1312  
+"hackathon.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\vm\\Documents\\code\\ARM-misc\\kl25z-hackathon-feb2013\\hackathon.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

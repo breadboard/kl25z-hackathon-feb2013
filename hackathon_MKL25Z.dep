@@ -1,0 +1,68 @@
+Dependencies for Project 'hackathon', Target 'MKL25Z': (DO NOT MODIFY !)
+F (.\startup_MKL25Z4.s)(0x5128FF68)(--cpu Cortex-M0+ -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Freescale\Kinetis --list "startup_MKL25Z4.lst" --xref -o "startup_MKL25Z4.o" --depend "startup_MKL25Z4.d")
+F (.\system_MKL25Z4.c)(0x5128FF68)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Freescale\Kinetis -o "system_mkl25z4.o" --omf_browse "system_mkl25z4.crf" --depend "system_mkl25z4.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA4250)
+I (derivative.h)(0x5128FF68)
+I (local_MKL25Z4.h)(0x5128FF68)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h)(0x50882CA8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0plus.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50882E6E)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h)(0x50882CA8)
+F (.\main.c)(0x51292F92)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Freescale\Kinetis -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x50FA4250)
+I (C:\Keil\ARM\ARMCC\bin\..\include\string.h)(0x50FA4250)
+I (types.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stddef.h)(0x50FA4250)
+I (config.h)(0x5128FF68)
+I (derivative.h)(0x5128FF68)
+I (local_MKL25Z4.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA4250)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h)(0x50882CA8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0plus.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50882E6E)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h)(0x50882CA8)
+I (adc.h)(0x5128FF68)
+I (uart.h)(0x5128FF68)
+I (pwm.h)(0x5128FF68)
+F (.\uart.c)(0x5128FF68)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Freescale\Kinetis -o "uart.o" --omf_browse "uart.crf" --depend "uart.d")
+I (types.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stddef.h)(0x50FA4250)
+I (config.h)(0x5128FF68)
+I (derivative.h)(0x5128FF68)
+I (local_MKL25Z4.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA4250)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h)(0x50882CA8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0plus.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50882E6E)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h)(0x50882CA8)
+I (uart.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\string.h)(0x50FA4250)
+F (.\adc.c)(0x5128FF68)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Freescale\Kinetis -o "adc.o" --omf_browse "adc.crf" --depend "adc.d")
+I (types.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stddef.h)(0x50FA4250)
+I (config.h)(0x5128FF68)
+I (derivative.h)(0x5128FF68)
+I (local_MKL25Z4.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA4250)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h)(0x50882CA8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0plus.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50882E6E)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h)(0x50882CA8)
+I (adc.h)(0x5128FF68)
+F (.\pwm.c)(0x51291DA5)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Freescale\Kinetis -o "pwm.o" --omf_browse "pwm.crf" --depend "pwm.d")
+I (types.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stddef.h)(0x50FA4250)
+I (config.h)(0x5128FF68)
+I (derivative.h)(0x5128FF68)
+I (local_MKL25Z4.h)(0x5128FF68)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA4250)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\MKL25Z4.h)(0x50882CA8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0plus.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50882E6E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50882E6E)
+I (C:\Keil\ARM\Inc\Freescale\Kinetis\system_MKL25Z4.h)(0x50882CA8)
+I (pwm.h)(0x5128FF68)

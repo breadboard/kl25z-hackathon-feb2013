@@ -1,0 +1,25 @@
+*** Creating Trace Output File 'hackathon.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_mkl25z4.o"'
+### List of Objects: adding '"system_mkl25z4.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"uart.o"'
+### List of Objects: adding '"adc.o"'
+### List of Objects: adding '"pwm.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0+ "startup_mkl25z4.o" "system_mkl25z4.o" "main.o" "uart.o" "adc.o" "pwm.o" 
+--strict --scatter "hackathon.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\hackathon.map" -o hackathon.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'hackathon.axf'
+### ADS-LD Command File: 'hackathon.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'hackathon.lnp', Handle=0x000012E8
+### Writing '.lnp' file
+### ADS-LD Command file 'hackathon.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
